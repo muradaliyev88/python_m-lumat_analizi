@@ -5,6 +5,6 @@
 
 **Pythonda məlumatları analiz etmədən evvəl bu paketləri qurmalıyıq**
 
-`pip3 install python-numpy python-scipy python-matplotlib ipython ipython-notebook python-pandas python-sympy python-nose`
+`pip3 install numpy scipy matplotlib ipython notebook pandas sympy nose seaborn`
 
 ##### Daha ətraflı [buradan](https://www.scipy.org/install.html) öyrənə bilərsiz
